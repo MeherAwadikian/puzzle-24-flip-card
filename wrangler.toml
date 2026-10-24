@@ -1,0 +1,3 @@
+name = "puzzle-24-flip-card"
+main = "src/worker.js"
+compatibility_date = "2026-10-24"
